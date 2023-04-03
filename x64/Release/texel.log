@@ -1,0 +1,82 @@
+﻿  InitShader.cpp
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\include\Angel.h(63,47): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\include\mat.h(698,18): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\include\mat.h(699,18): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\include\mat.h(700,18): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\include\mat.h(721,24): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\include\mat.h(723,24): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\include\mat.h(726,30): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\include\mat.h(743,30): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+  mesh.cpp
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\include\Angel.h(63,47): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\include\mat.h(698,18): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\include\mat.h(699,18): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\include\mat.h(700,18): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\include\mat.h(721,24): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\include\mat.h(723,24): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\include\mat.h(726,30): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\include\mat.h(743,30): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\mesh.cpp(70,32): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\mesh.cpp(74,35): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\mesh.cpp(99,23): warning C4305: “初始化”: 从“double”到“float”截断
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\mesh.cpp(100,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\mesh.cpp(163,32): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\mesh.cpp(166,40): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\mesh.cpp(169,32): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\mesh.cpp(173,32): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\mesh.cpp(176,40): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\mesh.cpp(179,40): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+  Mesh_Painter.cpp
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\include\Angel.h(63,47): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\include\mat.h(698,18): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\include\mat.h(699,18): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\include\mat.h(700,18): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\include\mat.h(721,24): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\include\mat.h(723,24): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\include\mat.h(726,30): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\include\mat.h(743,30): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\FreeImage.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\Mesh_Painter.cpp(176,48): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\Mesh_Painter.cpp(175,48): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\Mesh_Painter.cpp(174,48): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\Mesh_Painter.cpp(183,48): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\Mesh_Painter.cpp(182,48): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\Mesh_Painter.cpp(181,48): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\Mesh_Painter.cpp(190,48): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\Mesh_Painter.cpp(189,48): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\Mesh_Painter.cpp(188,48): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+  Texture_Mapping.cpp
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\include\Angel.h(63,47): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\include\mat.h(698,18): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\include\mat.h(699,18): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\include\mat.h(700,18): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\include\mat.h(721,24): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\include\mat.h(723,24): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\include\mat.h(726,30): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\实验四\实验4.1\texel\texel\include\mat.h(743,30): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\FreeImage.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+LINK : fatal error LNK1104: 无法打开文件“freeglut.lib”
